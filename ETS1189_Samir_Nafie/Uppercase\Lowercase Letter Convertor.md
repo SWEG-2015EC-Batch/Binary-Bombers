@@ -10,5 +10,5 @@ Algorithm
 •	Step 8: Stop
 Analysis
 •	Input = Letter
-•	Processing = if islower(Letter) Letter = toupper(Letter) else if, is upper(Letter) Letter tolower(Letter) else Letter = is not a Letter
+•	Processing = if (islower(Letter) Letter = toupper(Letter)) else if, (is upper(Letter) Letter tolower(Letter)) else (Letter = is not a Letter)
 •	Output = Letter
