@@ -1,8 +1,5 @@
 //Miles on a Full Tank Calculator
 #include<iostream>
-#include<ctype.h>
-#include<math.h>
-#include<string.h>
 using namespace std;
 int main()
 {
@@ -12,7 +9,7 @@ int main()
     cout<<"Enter the Fuel Consumption in Miles per Gallon"<< endl;
     cin>>Fuel_Consumption;
     Miles_on_Full_Tank = Fuel_Consumption*Fuel_Tank_Capacity;
-    cout<<"The Max Miles on Full Tank of this car is"<< endl;
+    cout<<"The Max Miles on Full Tank of this Automobile is"<< endl;
     cout<<Miles_on_Full_Tank<<" Miles"<< endl;
     return 0;
 }
