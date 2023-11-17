@@ -12,3 +12,7 @@ Analysis
 •        Processing: Compute Bonus_Payment = Weekly_Working_Hours*Bonus_Rate_per_Hour, Compute Gross_Salary = Base_Salary + Bonus_Payment, 
                      Compute Net_Salary = Gross_Salary – (0.2*Gross_Salary)
 •        Output: Employee_First_Name, Employee_Fathers_Name, Bonus_Payment, Gross_Salary, Net_Salary
+
+
+
+![SALARY](https://github.com/SWEG-2015EC-Batch/Binary-Bombers/assets/149320386/50e1388a-137f-4d37-a65f-09f3d86c981b)
