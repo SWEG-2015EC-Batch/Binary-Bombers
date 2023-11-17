@@ -9,3 +9,6 @@ Analysis
 •	      Input = X, Y
 •	      Processing = Compute Z = pow(X,Y)
 •	      Output = Z
+
+
+![POWER](https://github.com/SWEG-2015EC-Batch/Binary-Bombers/assets/149320386/a273836a-a9af-489f-82df-129e389266f5)
