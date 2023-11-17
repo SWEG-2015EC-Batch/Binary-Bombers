@@ -13,4 +13,5 @@ Analysis
 
 
 
-![BMI](https://github.com/SWEG-2015EC-Batch/Binary-Bombers/assets/149320386/91bee246-f6d0-4c4b-817a-5bab69c0db8e)
+![BMI](https://github.com/SWEG-2015EC-Batch/Binary-Bombers/assets/149320386/c345b4c4-993d-4075-b260-d147ef47eec7)
+
