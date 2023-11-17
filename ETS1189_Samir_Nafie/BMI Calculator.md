@@ -12,4 +12,5 @@ Analysis
 •	Output = BMI
 
 
-![Screenshot 2023-11-17 132455](https://github.com/SWEG-2015EC-Batch/Binary-Bombers/assets/149320386/ddc8be87-8777-4d02-8ce1-f7c2d51b6cb3)
+
+![BMI](https://github.com/SWEG-2015EC-Batch/Binary-Bombers/assets/149320386/91bee246-f6d0-4c4b-817a-5bab69c0db8e)
