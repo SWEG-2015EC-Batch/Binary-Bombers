@@ -12,3 +12,6 @@ Analysis
 •	Input = Letter
 •	Processing = if (islower(Letter) Letter = toupper(Letter)) else if, (is upper(Letter) Letter tolower(Letter)) else (Letter = is not a Letter)
 •	Output = Letter
+
+
+![LETTER](https://github.com/SWEG-2015EC-Batch/Binary-Bombers/assets/149320386/3c64c91c-cde9-48b2-9839-0a216753e9d2)
