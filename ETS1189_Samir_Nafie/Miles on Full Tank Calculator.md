@@ -10,3 +10,6 @@ Analysis
 •	Input = Fuel_Tank_Capacity, Fuel_Consumption
 •	Processing = Miles_on_Full_Tank = Fuel_Consumption*Fuel_Capacity
 •	Output = Miles_on_Full_Tank
+
+
+![MILE](https://github.com/SWEG-2015EC-Batch/Binary-Bombers/assets/149320386/560889dc-59cd-4f62-b863-83722f917910)
