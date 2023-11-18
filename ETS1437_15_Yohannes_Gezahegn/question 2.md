@@ -7,7 +7,7 @@ Algorithm
 Step 5: Print Miles_on_Full_Tank
 Step 6: Stop
 pseudocode
-![image](https://github.com/SWEG-2015EC-Batch/Binary-Bombers/assets/149233041/16ca8598-ce42-4e22-b82c-32b775bcc6c1)
+
 
 Analysis
 Input = Fuel_Tank_Capacity, Fuel_Consumption
