@@ -1,10 +1,12 @@
-algorithm
-Step 1: Start
-Step 2: Read a, b
-Step 3: Compute result = pow(a,b)
-Step 4: Print result
-Step 5: Stop
+pseudocode
+Step 1: Start.
+Step 2: Read x, y.
+Step 3: quantify result = pow(x,y).
+Step 4: Print result.
+Step 5: Stop.
+flowchart
+
 analysis
-input:a,b
-processing:Compute result = pow(a,b)
-output:result
+input:x,y.
+processing:quantify result = pow(x,y).
+output:result.
