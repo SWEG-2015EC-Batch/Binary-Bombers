@@ -8,7 +8,8 @@ Algorithm
 Step 6: Compute tolower(Letter)
 Step 7: Print Letter
 Step 8: Stop
-![image](https://github.com/SWEG-2015EC-Batch/Binary-Bombers/assets/149233041/283afe2d-54dd-4450-bb34-13f4908dec81)
+![letter converter](https://github.com/SWEG-2015EC-Batch/Binary-Bombers/assets/149233041/b7e0e001-51d0-49d9-acbe-c13bc050e7df)
+
 
 Analysis
 Input = Letter
