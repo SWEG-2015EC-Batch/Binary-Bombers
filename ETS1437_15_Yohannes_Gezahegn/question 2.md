@@ -6,8 +6,6 @@ Algorithm
 Step 4: Compute Miles_on_Full_Tank = Fuel_Consumption*Fuel_Tank_Capacity
 Step 5: Print Miles_on_Full_Tank
 Step 6: Stop
-pseudocode
-
 
 Analysis
 Input = Fuel_Tank_Capacity, Fuel_Consumption
