@@ -5,7 +5,6 @@
 using namespace std;
  int main(){
  int a, b;
- 
     cout<<"please enter the value of a: ";
     cin>>a;
     cout<<"please enter the value of b: ";
