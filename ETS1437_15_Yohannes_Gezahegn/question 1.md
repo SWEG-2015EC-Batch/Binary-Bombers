@@ -1,14 +1,12 @@
-
-#include<iostream>
-using namespace std;
-int main()
-{
-float BMI,weight,height;
-cout<<"please insert height"<<endl;
-cin>>height;
-cout<<"please insert weight"<<endl;
-cin>>weight;
-BMI=weight/(height*height);
-cout<<"BMI = "<< BMI <<endl;
-return 0;
-}
+Question 1. BMI Calculator
+Algorithm
+Step 1: Start
+Step 2: Read Height
+Step 3: Read Weight
+Step 4: Compute BMI = Weight / (Height*Height)
+Step 5: Print BMI
+Step 6: Stop
+Problem Analysis
+Input = Height, Weight
+Processing = BMI = Weight / (Height*Height)
+Output = BMI
