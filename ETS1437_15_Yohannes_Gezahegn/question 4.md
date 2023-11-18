@@ -5,7 +5,8 @@ Algorithm
 Step 3: Compute Z = X^Y
 Step 4: Print Z
 Step 5: Stop
-![image](https://github.com/SWEG-2015EC-Batch/Binary-Bombers/assets/149233041/a5e9ec19-dd16-426d-b42e-40c75b080f16)
+![power function](https://github.com/SWEG-2015EC-Batch/Binary-Bombers/assets/149233041/c02ff97c-a51a-40f3-9e80-78dd404e3db9)
+
 
 Analysis
 Input = X, Y
