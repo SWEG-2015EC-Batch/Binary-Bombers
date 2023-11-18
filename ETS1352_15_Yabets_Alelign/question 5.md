@@ -10,19 +10,19 @@ pseudocode
 9. Calculate bonusPayment as weeklyHours * bonusRate.
 10. Display the employee name, gross salary, tax deduction, net salary, and bonus payment.
 11. End.
-  flowchart
+flowchart
 ![salary problem](https://github.com/SWEG-2015EC-Batch/Binary-Bombers/assets/149236920/f7ac87f5-5730-478a-be08-e890ba32c0d9)
 
 analysis
- Input:
+  Input:
 - Employee name
 - Weekly working hours
 - Bonus rate per hour.
 - Base salary.
-Processing:
+  Processing:
 - Calculate gross salary=  base salary+ weekly hours* bonus rate
 - Calculate the tax deduction= 15% gross salary
 - Calculate net salary= gross salary -( tax deduction)
 - Calculate bonus payment = weekly hours*bonus rate
-Output:
+  Output:
 - Display the employee name, gross salary, tax deduction, net salary, and bonus payment.
