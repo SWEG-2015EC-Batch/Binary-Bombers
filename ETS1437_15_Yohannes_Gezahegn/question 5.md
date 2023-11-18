@@ -9,6 +9,7 @@ Algorithm
 Step 7: Compute Net_Salary = Gross_Salary – pension - tax
 Step 8: Print Employee name, Bonus_Payment, Gross_Salary, Net_Salary 
 Step  9:stop                   
+![employee salary](https://github.com/SWEG-2015EC-Batch/Binary-Bombers/assets/149233041/1a211a10-fa19-462a-a6f0-5f7ae5b07a7a)
 
 
 Analysis
