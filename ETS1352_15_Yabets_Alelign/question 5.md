@@ -1,5 +1,5 @@
 pseudocode
-1. Start
+1. Start.
 2. enter employee name and store it in the variable name.
 3. enter weekly working hours.
 4. enter bonus rate per hour.
@@ -9,13 +9,15 @@ pseudocode
 8. Calculate netSalary as grossSalary - tax.
 9. Calculate bonusPayment as weeklyHours * bonusRate.
 10. Display the employee name, gross salary, tax deduction, net salary, and bonus payment.
-11. End
+11. End.
+  flowchart
+
 analysis
  Input:
 - Employee name
 - Weekly working hours
-- Bonus rate per hour
-- Base salary
+- Bonus rate per hour.
+- Base salary.
 Processing:
 - Calculate gross salary=  base salary+ weekly hours* bonus rate
 - Calculate the tax deduction= 15% gross salary
