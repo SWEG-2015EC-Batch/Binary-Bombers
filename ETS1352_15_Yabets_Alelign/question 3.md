@@ -1,7 +1,8 @@
 pseudocode
 
 flowchart
-![image](https://github.com/SWEG-2015EC-Batch/Binary-Bombers/assets/149236920/edf7df6f-62fa-4b79-b331-c78ed4a0ffe2)
+![letter convertor](https://github.com/SWEG-2015EC-Batch/Binary-Bombers/assets/149236920/91925080-c927-4f6e-a9a6-78607b8dcd70)
+
 
 analysis
 input:Letter
