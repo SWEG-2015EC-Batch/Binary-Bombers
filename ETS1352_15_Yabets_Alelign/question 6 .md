@@ -1,4 +1,4 @@
-algorithm
+ algorithm
 Step 1: Start
 Step 2: Read File_Size_in_Bytes
 Step 3: Compute the time required to transmit the file by dividing fileSize by transmissionRate
