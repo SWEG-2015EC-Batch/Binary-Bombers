@@ -6,8 +6,8 @@ Algorithm
 Step 4: Compute BMI = Weight / (Height*Height)
 Step 5: Print BMI
 Step 6: Stop
-pseudocode
-![BMI](https://github.com/SWEG-2015EC-Batch/Binary-Bombers/assets/149320386/4d2f6f32-0ea8-4181-b7fa-6dc9ec2d61dd)
+![bmi](https://github.com/SWEG-2015EC-Batch/Binary-Bombers/assets/149233041/d81d5ddd-f7d9-4659-9dce-fec4e7f36a9f)
+
 
 Problem Analysis
 Input = Height, Weight
