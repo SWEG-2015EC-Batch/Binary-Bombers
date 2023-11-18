@@ -8,6 +8,8 @@ Algorithm
 Step 6: Compute tolower(Letter)
 Step 7: Print Letter
 Step 8: Stop
+![image](https://github.com/SWEG-2015EC-Batch/Binary-Bombers/assets/149233041/283afe2d-54dd-4450-bb34-13f4908dec81)
+
 Analysis
 Input = Letter
 Processing = if islower(Letter) Letter = toupper(Letter) else if, is upper(Letter) Letter = tolower(Letter) else Letter = is not a Letter
