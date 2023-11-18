@@ -11,7 +11,7 @@ pseudocode
 10. Display the employee name, gross salary, tax deduction, net salary, and bonus payment.
 11. End.
   flowchart
-
+https://user-images.githubusercontent.com/149320386/283792077-50e1388a-137f-4d37-a65f-09f3d86c981b.jpg
 analysis
  Input:
 - Employee name
