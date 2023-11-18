@@ -1,12 +1,7 @@
-Algorithm
-1. Start
-2. Declare variables letter, upperCaseLetter, and lowerCaseLetter of type char
-3. Output "Enter a letter: "
-4. Input the value into the variable letter
-5. Convert the input letter to its uppercase using the built-in function toupper() and store it in the variable upperCaseLetter
-6. Convert the input letter to its lowercase using the built-in function tolower() and store it in the variable lowerCaseLetter
-7. Output "The uppercase and lowercase of the letter <input_value> respectively are <value_of_upperCaseLetter> and <value_of_lowerCaseLetter>."
-8. End
+pseudocode
+
+flowchart
+![image](https://github.com/SWEG-2015EC-Batch/Binary-Bombers/assets/149236920/edf7df6f-62fa-4b79-b331-c78ed4a0ffe2)
 
 analysis
 input:Letter
