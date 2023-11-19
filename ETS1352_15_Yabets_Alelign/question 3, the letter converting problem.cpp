@@ -4,12 +4,25 @@
 #include<string.h>
 using namespace std;
 //this program will be used to write both the uppercase and lower case versions of a given letter.
-int main() {
-    char Letter, UpperCaseLetter, LowerCaseLetter;
-    cout<<"enter Letter- ";
-    cin>>Letter; 
-    UpperCaseLetter = toupper(Letter);
-    LowerCaseLetter = tolower(Letter);
-    cout<<"The Lower and the Upper case of a given Letter "<<Letter<<"  can be each written as "<<UpperCaseLetter<<" and "<<LowerCaseLetter<<".";
+int main()
+{
+    char Letter;
+    cout<<"Enter the Letter"<< endl;
+    cin>>Letter;
+    if (islower (Letter))
+        {
+            Letter = toupper(Letter);
+            cout<<Letter;
+        }
+    else if (isupper(Letter))
+		{
+		Letter = tolower(Letter);
+		cout<<Letter;
+		}
+	else 
+		{
+        cout << "The character " << Letter << " is not a letter."<< endl;
+    	}
+
     return 0;
-    }
+}
