@@ -1,15 +1,19 @@
-1.	BMI Calculator 
+1.	BMI Calculator
+
 Algorithm
-•	Step 1: Start
-•	Step 2: Read Height
-•	Step 3: Read Weight
-•	Step 4: Compute BMI = Weight / (Height^2)
-•	Step 5: Print BMI
-•	Step 6: Stop
+
+1.  Step 1: Start
+2.	Step 2: Read Height
+3.	Step 3: Read Weight
+4.	Step 4: Compute BMI = Weight / (Height^2)
+5.	Step 5: Print BMI
+6.	Step 6: Stop
+   
 Analysis
-•	Input = Height, Weight
-•	Processing = BMI = Weight / (Height^2)
-•	Output = BMI
+
+1.	Input = Height, Weight
+2.	Processing = BMI = Weight / (Height^2)
+3.	Output = BMI
 
 
 
