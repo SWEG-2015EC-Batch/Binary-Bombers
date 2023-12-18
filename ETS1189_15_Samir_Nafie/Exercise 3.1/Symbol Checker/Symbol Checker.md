@@ -12,9 +12,9 @@ Processing
    - if its a vowel or a consonant.
 Output- Display
 
--Either odd or even(for digits).
--Either uppercase vowel or lowercase vowel or either uppercase consonant or lowercase consonant(for letters).
--Special character(for special characters).
+   - Either odd or even(for digits).
+   - Either uppercase vowel or lowercase vowel or either uppercase consonant or lowercase consonant(for letters).
+   - Special character(for special characters).
 
 B.Pseudo code
 
