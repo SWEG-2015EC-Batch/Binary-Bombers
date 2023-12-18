@@ -23,4 +23,5 @@ Step7:print BMI and respective weight status.
 Step8:stop .
 
 C.Flowchart
-![image](https://github.com/SWEG-2015EC-Batch/Binary-Bombers/assets/149236920/ea687e80-7e7a-4f31-ab7f-6564e1d507b1)
+![bmi](https://github.com/SWEG-2015EC-Batch/Binary-Bombers/assets/149236920/c24c7ece-5949-43c6-880e-d7d41ddb6510)
+
