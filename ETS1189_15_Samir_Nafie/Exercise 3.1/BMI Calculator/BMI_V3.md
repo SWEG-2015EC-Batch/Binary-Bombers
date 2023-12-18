@@ -26,4 +26,10 @@ Step6:if number of<= then, go to step2
 
 Step7:print BMI
 
-Step8:stop 
+Step8:stop
+
+
+![photo_2023-12-18_11-58-15](https://github.com/SWEG-2015EC-Batch/Binary-Bombers/assets/149320386/5ec2e346-151d-4a5a-a2cc-8ebf8d91be66)
+
+
+
