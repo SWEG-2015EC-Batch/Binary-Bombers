@@ -30,13 +30,14 @@ Step8:if final exam<lower limit||test >upper limit, then the mark is out of rang
 Step9:total mark=quiz+project+assignment+test+final exam.
 
 Step10:if total mark>=90  then,your grade is A+
-              Else If total mark<=90&&total mark>=80 then, your grade is A.
-              Else If total mark>=75&&total mark<80 then, your grade is B+.
-              Else If total mark>=60&&total mark<75 then, your grade is B.
-              Else If total mark>=55&&total mark<60 then, your grade is C+.
-              Else If total mark>=45&&total mark<55 then, your grade is C.
-              Else If total mark>=30&&total mark<45 then, your grade is D.
-              Else your grade is F.
+
+  - Else If total mark<=90&&total mark>=80 then, your grade is A.
+  - Else If total mark>=75&&total mark<80 then, your grade is B+.
+  - Else If total mark>=60&&total mark<75 then, your grade is B.
+  - Else If total mark>=55&&total mark<60 then, your grade is C+.
+  - Else If total mark>=45&&total mark<55 then, your grade is C.
+  - Else If total mark>=30&&total mark<45 then, your grade is D.
+  - Else your grade is F.
 
 Step11:print total mark.
 
