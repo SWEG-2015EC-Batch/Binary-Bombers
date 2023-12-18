@@ -1,0 +1,75 @@
+#include <iostream>
+using namespace std ;
+
+int main()
+
+{
+int num1, num2 , sum , minus,prod,divide,rem ;
+char operation ;
+
+while(true)
+{
+cout<< "enter the number \n" ;
+cin>>num1 ;
+
+if(num1 == 0)
+{
+	cout<<"exiting program\n";
+	break ;
+}
+
+cout<<"choose the operation you want to ( +,-,*,/)\n" ;
+cin>>operation ;
+cout<<"enter the number \n";
+cin>>num2 ;
+
+switch(operation)
+{
+	
+	
+	case '+' :
+	sum = num1+num2 ;
+	cout<<"the sum is : "<<sum<<endl;
+	
+	break;
+	
+	case '-' :
+	minus = num1 - num2 ;
+	cout<<"the subtraction is "<<minus<<endl;
+	
+	break ;
+	
+	case '*' :
+	prod = num1*num2 ;
+	cout<<"the multiple of the numbers is : "<<prod<<endl;
+	 
+	 break ;
+	 
+	 case '/' :
+	if(num2==0)
+	{
+		cout<<"invalid \n" ;
+	}
+	
+	else
+	{
+		
+	divide = num1/num2 ;
+	cout<<"the qoetient of the numbers is : "<<divide<<endl;
+	}
+	
+	break ;
+
+default :
+
+cout<<"invalid operation"<<endl ;
+	
+		
+
+}				
+
+							}							
+								
+									
+				return 0 ;	
+}
