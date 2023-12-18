@@ -4,7 +4,7 @@ Input- The no input.
 
 Processing-checking if the input for length and width are positive and If not, it outputs an error message and stops.
 
-          -If the input are valid, the program generates a rectangular grid of numbers starting from 10 and increment by 1 for each cell which is constructed using nested loops.
+-If the input are valid, the program generates a rectangular grid of numbers starting from 10 and increment by 1 for each cell which is constructed using nested loops.
 
 Output-A rectangular grid of numbers with each row separated by a newline character.
 
