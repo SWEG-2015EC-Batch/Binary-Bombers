@@ -1,40 +1,32 @@
-Problem analysis for simple calculator
+Problem analysis
 
-Input = read variables num1 and num2 and op
+Input- initialize variables num1 and num2, op,and z.
 
-Processing = using the switch case , conditional and loop statements,select an operation to compute the result with exception of num2≠0 in num1/num2 and num1%num2
+Processing- using the switch, conditional and loop statements to  select an operator and compute the result.
 
-Output = display the result
+   - compute the result with the exception in num1/num2 ,where num2 ≠ 0.
 
-Pseudo code for simple calculator
+Output-displaying the result.
 
-Step1:start
+Pseudo code
 
-Step2:insert num1,num2,op,
+Step 1: start the program.
 
-Step3:calculate result
+Step 2:read num1,num2&op.
 
-If op=+ then use num1+num2
+Step 3: calculate z 
 
-If op= - then use num1-num2 
+   - if op= +,then use num1+num2
+   - If op= -, then use num1-num2
+   - If op= *, then use num1*num2
+   - If op= /,then use num1*num2; I.f.f num2!=0.
 
-If op= * then use num1*num2 
+Step 4: Display z.
 
-If op= / then use num1/num2  where num2!=0
+Step 5: If to continue the program, press any key to go to step 2.
 
-If op=% then use num1%num2 where num2!=0
+Step 6:  Else, press the number 0 to end the program.
 
-Step4:print z
-
-Step5:read choice
 
 
 ![photo_2023-12-18_09-05-05](https://github.com/SWEG-2015EC-Batch/Binary-Bombers/assets/149320386/c48f855f-f8c3-4d4f-a4d3-f702add184fd)
-
-
-Step6:if(choice =0)  end
-
-else Go to step 2
-
-Step7:stop
-
