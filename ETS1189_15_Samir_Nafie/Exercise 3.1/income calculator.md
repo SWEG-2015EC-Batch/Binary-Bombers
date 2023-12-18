@@ -29,31 +29,4 @@ Step8:print net_salary
 Step9:stop
 
 
-![image](https://github.com/SWEG-2015EC-Batch/Binary-Bombers/assets/149320386/05a6052c-1d51-4fda-89d4-f9d4cd192906)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![image](https://github.com/SWEG-2015EC-Batch/Binary-Bombers/assets/149320386/c7456ee7-d915-4b09-bf50-4b377dd8c9c2)
