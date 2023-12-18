@@ -28,6 +28,10 @@ Step4:print z
 
 Step5:read choice
 
+
+![photo_2023-12-18_09-05-05](https://github.com/SWEG-2015EC-Batch/Binary-Bombers/assets/149320386/c48f855f-f8c3-4d4f-a4d3-f702add184fd)
+
+
 Step6:if(choice =0)  end
 
 else Go to step 2
