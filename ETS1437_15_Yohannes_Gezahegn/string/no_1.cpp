@@ -6,7 +6,7 @@ int main()
 {
     string text;
     cout << "Enter a string: ";
-    getline(cin, text);
+    cin>>text;
     int v = 0, c = 0;
     for (int i = 0; i < text.length(); i++)
      {
